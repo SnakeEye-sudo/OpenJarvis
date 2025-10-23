@@ -1,0 +1,10 @@
+# OpenJarvis Settings (stub)
+general:
+  name: Jarvis
+  language: en-US
+voice:
+  stt_engine: whisper
+  tts_engine: tortoise
+ai:
+  provider: openai
+  model: gpt-4
